@@ -1,3 +1,5 @@
+//Ashley Albert
+
 var christmas_image, presents, santa, bells, present_slider, x;
 
 let snowflakes = [];
